@@ -1,9 +1,4 @@
 Python
-    Time
-    Datetime
-    venv
-    _str_
-
     Pandas
     Banco de Dados
     Matplotlib
